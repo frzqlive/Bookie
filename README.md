@@ -14,6 +14,7 @@
 - UIKit, Core Data
 - SnapKit
 - Kingfisher (загрузка изображений)
+- Open Library API
 
 ## Экраны
 
